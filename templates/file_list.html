@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Downloading_Files</title>
+</head>
+<body>
+    <h1>Files Downloading</h1>
+    <table>
+  <thead>
+    <tr>
+      <th>File Name</th>
+      <th>Download Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for file in files %}
+    <tr>
+      <td>{{ file.file_name }}</td>
+      <td><a href="{% url 'download_file' file.file_type file.id %}">Download</a></td>
+
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+    <h1>playlists</h1>
+    <table>
+      <thead>
+        <tr>
+          <th>File Name</th>
+          <th>Download Link</th>
+        </tr>
+      </thead>
+      <tbody>
+    {% for file in pfiles %}
+    <tr>
+      <td>{{ file.file_name }}</td>
+      <td><a href="{% url 'download_file' file.file_type file.id %}">Download</a></td>
+
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+    <h1>Channel </h1>
+    <table>
+      <thead>
+        <tr>
+          <th>File Name</th>
+          <th>Download Link</th>
+        </tr>
+      </thead>
+      <tbody>
+      {% for file in cfiles %}
+    <tr>
+      <td>{{ file.file_name }}</td>
+      <td><a href="{% url 'download_file' file.file_type file.id %}">Download</a></td>
+
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+</body>
+</html>

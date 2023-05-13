@@ -1,0 +1,112 @@
+v_title,v_description
+PyTorch Basics and Gradient Descent | Deep Learning with PyTorch: Zero to GANs | Part 1 of 6,"“Deep Learning with PyTorch: Zero to GANs” is a beginner-friendly online course offering a practical and coding-focused introduction to deep learning using the PyTorch framework. Learn more and register for a certificate of accomplishment here: http://zerotogans.com/
+
+Watch the entire series here: 
+   • Deep Learning wit...  
+Code and Resources: 
+    PyTorch basics: https://jovian.ai/aakashns/01-pytorch...
+    Linear regression: https://jovian.ai/aakashns/02-linear-...
+    Machine learning: https://jovian.ai/aakashns/machine-le...
+    Discussion forum: https://jovian.ai/forum/c/pytorch-zer...
+
+Topics covered in this video:
+
+    Introduction to machine learning and Jupyter notebooks
+    PyTorch basics: tensors, gradients, and autograd
+    Linear regression & gradient descent from scratch
+    Using PyTorch modules: nn.Linear & nn.functional
+
+This course is taught by Aakash N S, co-founder & CEO of Jovian - a data science platform and global community.
+- YouTube: 
+   / jovianml  
+- Twitter: https://twitter.com/jovianml 
+- LinkedIn: https://linkedin.com/company/jovianml
+
+--
+
+Learn to code for free and get a developer job: https://www.freecodecamp.org
+
+Read hundreds of articles on programming: https://freecodecamp.org/news
+Show less"
+PyTorch Images and Logistic Regression | Deep Learning with PyTorch: Zero to GANs | Part 2 of 6,"“Deep Learning with PyTorch: Zero to GANs” is a beginner-friendly online course offering a practical and coding-focused introduction to deep learning using the PyTorch framework. Learn more and register for a certificate of accomplishment here: http://zerotogans.com
+
+Watch the entire series here: 
+   • Deep Learning wit...  
+Code and Resources: 
+Logistic regression: https://jovian.ai/aakashns/03-logisti...
+Image Classification with Logistic Regression: https://jovian.ai/aakashns/mnist-logi...
+House Price Prediction: https://jovian.ai/aakashns/housing-li...
+Discussion forum: https://jovian.ai/forum/c/pytorch-zer...
+
+Topics covered in this video:
+* Working with images from the MNIST dataset
+* Training and validation dataset creation
+* Softmax function and categorical cross entropy loss
+* Model training, evaluation, and sample predictions
+
+This course is taught by Aakash N S, co-founder & CEO of Jovian - a data science platform and global community.
+- YouTube: 
+   / jovianml  
+- Twitter: https://twitter.com/jovianml 
+- LinkedIn: https://linkedin.com/company/jovianml
+
+--
+
+Learn to code for free and get a developer job: https://www.freecodecamp.org
+
+Read hundreds of articles on programming: https://freecodecamp.org/news
+Show less"
+Training Deep Neural Networks on a GPU | Deep Learning with PyTorch: Zero to GANs | Part 3 of 6,"“Deep Learning with PyTorch: Zero to GANs” is a beginner-friendly online course offering a practical and coding-focused introduction to deep learning using the PyTorch framework. Learn more and register for a certificate of accomplishment here: http://zerotogans.com
+
+Watch the entire series here: 
+   • Deep Learning wit...  
+Code and Resources: 
+Feedforward neural networks: https://jovian.ai/aakashns/04-feedfor...
+Neural networks (minimal): https://jovian.ai/aakashns/fashion-fe...
+Data Visualization Cheatsheet: https://jovian.ai/aakashns/dataviz-ch...
+Discussion forum: https://jovian.ai/forum/t/lecture-3-t...
+
+Topics covered in this video:
+* Working with cloud GPU platforms like Kaggle & Colab
+* Creating a multilayer neural network using nn.Module
+* Activation function, non-linearity, and universal approximation theorem
+* Moving datasets and models to the GPU for faster training
+
+This course is taught by Aakash N S, co-founder & CEO of Jovian - a data science platform and global community.
+- YouTube: 
+   / jovianml  
+- Twitter: https://twitter.com/jovianml 
+- LinkedIn: https://linkedin.com/company/jovianml
+
+--
+
+Learn to code for free and get a developer job: https://www.freecodecamp.org
+
+Read hundreds of articles on programming: https://freecodecamp.org/news
+Show less"
+Image Classification with Convolutional Neural Networks | Deep Learning with PyTorch: Zero to GANs |,"“Deep Learning with PyTorch: Zero to GANs” is a beginner-friendly online course offering a practical and coding-focused introduction to deep learning using the PyTorch framework. Learn more and register for a certificate of accomplishment here: http://zerotogans.com
+
+Watch the entire series here: 
+   • Deep Learning wit...  
+Code and Resources: 
+🔗 Image Classification using Convolutional Neural Networks: https://jovian.ai/aakashns/05-cifar10...
+🔗 Classifying images of everyday objects using a neural network: https://jovian.ai/aakashns/03-cifar10...
+🔗 Discussion forum: https://jovian.ai/forum/t/lecture-4-i...
+
+Topics covered in this video:
+* Working with the 3-channel RGB images from the CIFAR10 dataset
+* Introduction to Convolutions, kernels & features maps
+* Underfitting, overfitting, and techniques to improve model performance
+
+This course is taught by Aakash N S, co-founder & CEO of Jovian - a data science platform and global community.
+- YouTube: 
+   / jovianml  
+- Twitter: https://twitter.com/jovianml 
+- LinkedIn: https://linkedin.com/company/jovianml
+
+--
+
+Learn to code for free and get a developer job: https://www.freecodecamp.org
+
+Read hundreds of articles on programming: https://freecodecamp.org/news
+Show less"
